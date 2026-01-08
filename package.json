@@ -1,6 +1,6 @@
 {
   "name": "api-mock-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Production-ready mock server generator from OpenAPI/Swagger specifications with 150+ dynamic templates",
   "private": false,
   "bin": {

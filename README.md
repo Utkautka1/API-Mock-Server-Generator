@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/v/api-mock-generator.svg" alt="NPM Version" /></a>
-  <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/l/api-mock-generator.svg" alt="Package License" /></a>
-  <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/dm/api-mock-generator.svg" alt="NPM Downloads" /></a>
-  <a href="https://github.com/Utkautka1/API-Mock-Server-Generator" target="_blank"><img src="https://img.shields.io/github/stars/Utkautka1/API-Mock-Server-Generator?style=social" alt="GitHub Stars" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node-%3E%3D16-brightgreen.svg" alt="Node.js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-5.3-blue.svg" alt="TypeScript" /></a>
+  <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/v/api-mock-generator?style=flat-square&logo=npm" alt="NPM Version" /></a>
+  <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/l/api-mock-generator?style=flat-square" alt="Package License" /></a>
+  <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/dm/api-mock-generator?style=flat-square&logo=npm" alt="NPM Downloads" /></a>
+  <a href="https://github.com/Utkautka1/API-Mock-Server-Generator" target="_blank"><img src="https://img.shields.io/github/stars/Utkautka1/API-Mock-Server-Generator?style=social&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node-%3E%3D16-brightgreen.svg?style=flat-square&logo=node.js" alt="Node.js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-5.3-blue.svg?style=flat-square&logo=typescript" alt="TypeScript" /></a>
 </p>
 
 ---
