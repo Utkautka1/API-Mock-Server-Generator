@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/api-mock-generator.git"
+    "url": "https://github.com/Utkautka1/API-Mock-Server-Generator.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/api-mock-generator/issues"
+    "url": "https://github.com/Utkautka1/API-Mock-Server-Generator/issues"
   },
-  "homepage": "https://github.com/yourusername/api-mock-generator#readme",
+  "homepage": "https://github.com/Utkautka1/API-Mock-Server-Generator#readme",
   "publishConfig": {
     "access": "public"
   },
