@@ -1,5 +1,9 @@
 // Типы для конфигурации эндпоинта
 export interface EndpointConfig {
+  // Путь эндпоинта
+  path?: string;
+  // HTTP метод
+  method?: string;
   // Задержка ответа в миллисекундах
   delay?: number;
   // HTTP статус код ответа

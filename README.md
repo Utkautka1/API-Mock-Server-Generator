@@ -10,7 +10,7 @@
   <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/v/api-mock-generator.svg" alt="NPM Version" /></a>
   <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/l/api-mock-generator.svg" alt="Package License" /></a>
   <a href="https://www.npmjs.com/package/api-mock-generator" target="_blank"><img src="https://img.shields.io/npm/dm/api-mock-generator.svg" alt="NPM Downloads" /></a>
-  <a href="https://github.com/yourusername/api-mock-generator" target="_blank"><img src="https://img.shields.io/github/stars/yourusername/api-mock-generator?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/Utkautka1/API-Mock-Server-Generator" target="_blank"><img src="https://img.shields.io/github/stars/Utkautka1/API-Mock-Server-Generator?style=social" alt="GitHub Stars" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node-%3E%3D16-brightgreen.svg" alt="Node.js" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-5.3-blue.svg" alt="TypeScript" /></a>
 </p>
@@ -342,7 +342,7 @@ Generate realistic data using 150+ built-in templates:
 
 </details>
 
-[**View all 150+ templates →**](https://github.com/yourusername/api-mock-generator/wiki/Templates)
+[**View all 150+ templates →**](https://github.com/Utkautka1/API-Mock-Server-Generator/wiki/Templates)
 
 ---
 
@@ -469,16 +469,17 @@ Validate your API contracts before backend implementation.
 
 ## 🤝 Support
 
-If you find this project useful, please consider giving it a ⭐️ on [GitHub](https://github.com/yourusername/api-mock-generator)!
+If you find this project useful, please consider giving it a ⭐️ on [GitHub](https://github.com/Utkautka1/API-Mock-Server-Generator)!
 
 ---
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+**Дмитрий (Utkautka1)** - Full-stack разработчик
+
+- 🌐 **Портфолио**: [dmitry-fullstack.vercel.app](https://dmitry-fullstack.vercel.app)
+- 💻 **GitHub**: [@Utkautka1](https://github.com/Utkautka1)
+- 📦 **NPM**: [api-mock-generator](https://www.npmjs.com/package/api-mock-generator)
 
 ---
 

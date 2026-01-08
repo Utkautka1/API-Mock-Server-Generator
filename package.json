@@ -1,6 +1,6 @@
 {
   "name": "api-mock-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Production-ready mock server generator from OpenAPI/Swagger specifications with 150+ dynamic templates",
   "private": false,
   "bin": {
@@ -32,7 +32,9 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "npm run build --workspaces",
+    "build": "npm run build:shared && npm run build:packages",
+    "build:shared": "cd packages/shared && npm run build",
+    "build:packages": "npm run build --workspaces --if-present",
     "dev": "npm run dev --workspaces --if-present",
     "lint": "eslint . --ext .ts,.tsx",
     "test": "jest",
