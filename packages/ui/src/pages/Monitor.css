@@ -1,0 +1,117 @@
+.monitor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.status-indicator {
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.status-indicator.connected {
+  background-color: #28a745;
+  color: white;
+}
+
+.status-indicator.disconnected {
+  background-color: #dc3545;
+  color: white;
+}
+
+.logs-container {
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logs-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.logs-table thead {
+  background-color: #f8f9fa;
+}
+
+.logs-table th,
+.logs-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.logs-table tbody tr:hover {
+  background-color: #f8f9fa;
+}
+
+.method-badge {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.method-get {
+  background-color: #28a745;
+  color: white;
+}
+
+.method-post {
+  background-color: #007bff;
+  color: white;
+}
+
+.method-put {
+  background-color: #ffc107;
+  color: black;
+}
+
+.method-delete {
+  background-color: #dc3545;
+  color: white;
+}
+
+.path-cell {
+  font-family: monospace;
+  font-size: 14px;
+}
+
+.status-badge {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.status-200,
+.status-201,
+.status-204 {
+  background-color: #28a745;
+  color: white;
+}
+
+.status-400,
+.status-401,
+.status-403,
+.status-404 {
+  background-color: #ffc107;
+  color: black;
+}
+
+.status-500,
+.status-502,
+.status-503 {
+  background-color: #dc3545;
+  color: white;
+}
+
+.empty-state {
+  padding: 40px;
+  text-align: center;
+  color: #999;
+}

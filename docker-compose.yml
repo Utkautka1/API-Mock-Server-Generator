@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  api-mock-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    volumes:
+      # Монтируем директорию со спецификациями
+      - ./specs:/app/specs:ro
+      # Монтируем директорию для конфигурации
+      - ./config:/app/config:ro
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    healthcheck:
+      test: ['CMD', 'wget', '--quiet', '--tries=1', '--spider', 'http://localhost:3000/api/stats']
+      interval: 30s
+      timeout: 10s
+      retries: 3

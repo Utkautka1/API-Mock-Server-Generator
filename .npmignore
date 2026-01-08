@@ -1,0 +1,45 @@
+# Source files
+packages/*/src/
+packages/*/tsconfig.json
+
+# Tests
+**/*.test.ts
+**/*.spec.ts
+__tests__/
+test/
+tests/
+
+# Development
+.vscode/
+.idea/
+*.log
+.DS_Store
+.env
+.env.local
+
+# Build artifacts
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# CI/CD
+.github/
+.circleci/
+.travis.yml
+
+# Examples
+examples/
+example-*.yaml
+example-*.json
+
+# Node modules in packages (root node_modules will be included)
+packages/*/node_modules/
